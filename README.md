@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution link is here](https://github.com/masum-hosen/Conference-ticket-generator)
+- Live Site URL: [Live site URL Link is here](https://gorgeous-cupcake-04eff4.netlify.app/)
 
 ## My process
 
